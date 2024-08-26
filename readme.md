@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Kumbhakarn</h1>
 <h3 align="center">A passionate Data Scientist</h3><br>
-<img align="right" alt="Coding" width="400" src="https://www.galtechlearning.com/wp-content/uploads/2023/01/first.gif">
+<img align="right" alt="Coding" width="200" src="https://www.galtechlearning.com/wp-content/uploads/2023/01/first.gif">
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, NLP projects**
 - 🌱 I’m currently learning **AWS, GCP, Docker**
