@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **AWS, GCP, Docker**
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on AI/ML Projects and Research**
 - 👨‍💻 All of my projects are available at [https://github.com/Kumbhakarn](https://github.com/Kumbhakarn)
-- 📫 How to reach me **akashkumbhakarn@gmail.com**
+- 📫 How to reach me **kumbhakarnakash@gmail.com**
 
 <p align="left">
 </p>
