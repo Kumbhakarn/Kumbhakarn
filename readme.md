@@ -3,10 +3,10 @@
 <img align="right" alt="Coding" width="200" src="https://www.galtechlearning.com/wp-content/uploads/2023/01/first.gif">
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, NLP projects**
-- 🌱 I’m currently learning **AWS, GCP, Docker**
+- 🌱 I’m currently learning **Agentic AI, LangChain, LangGraph, LangSmith**
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on AI/ML Projects and Research**
 - 👨‍💻 All of my projects are available at [https://github.com/Kumbhakarn](https://github.com/Kumbhakarn)
-- 📫 How to reach me **kumbhakarnakash@gmail.com**
+- 📫 How to reach me **akashkumbhakarn@gmail.com**
 
 <p align="left">
 </p>
